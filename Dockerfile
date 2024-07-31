@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-web-service:ubuntu-7.0.1
+FROM zabbix/zabbix-web-service:ubuntu-7.0.2
 
 USER zabbix
 
